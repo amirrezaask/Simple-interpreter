@@ -1,0 +1,6 @@
+abc=10;
+if abc > 0 then
+    print abc
+else
+    print abc-1
+end
